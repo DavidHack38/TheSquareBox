@@ -1,0 +1,163 @@
+html
+{
+	font-family: Verdana Georgia;
+}
+
+a
+{
+	text-decoration: none;
+	color: rgb(1, 150, 0); /*cool color (tout en rgb) // green 0,117,0 ;; bleu  0,81,195 ;; autre bleu 0,0,130 ;; autre vert 27,88,6*/
+	/*font-weight: bold;*/
+	/*font-size: 1.5em;*/
+}
+
+a:hover
+{
+	text-decoration: none;
+	background-color: rgb(1,150,0);
+	color: white;
+	/*font-size: 1.5em;*/
+}
+
+.affichage {
+color: #333;
+font-family: Helvetica, Arial, sans-serif;
+width: 640px;
+border-collapse:
+collapse; border-spacing: 0;
+}
+
+td, th {
+border: 1px solid transparent; /* No more visible border */
+height: 30px;
+transition: all 0.3s; /* Simple transition for hover effect */
+}
+
+th {
+background: #DFDFDF; /* Darken header a bit */
+font-weight: bold;
+}
+
+td {
+background: #FAFAFA;
+text-align: center;
+}
+
+.btn
+{
+	position: relative;
+	display: inline-block;
+	padding: 6px 12px;
+	font-size: 14px;
+	font-weight: 600;
+	line-height: 20px;
+	white-space: nowrap;
+	vertical-align: middle;
+	cursor: pointer;
+	/*-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;*/
+	user-select: none;
+	background-repeat: repeat-x;
+	background-position: -1px -1px;
+	background-size: 110% 110%;
+	border: 1px solid rgba(27,31,35,0.2);
+	border-radius: 0.25em;
+	/*-webkit-appearance: none;
+	-moz-appearance: none;*/
+	appearance: none;
+}
+
+.title
+{
+	text-align: center;
+	color: blue;
+	font-size: 1.5em;
+	margin: 5px 50px;
+}
+
+nav
+{
+    display: table;
+	position: fixed;
+	height: auto;
+    width: 900px;
+    margin: 5px auto;
+    padding: 2px 25% 2px 25%; /*2 25 2 25*/ /* 0 0 0 235*/
+	z-index: 2;
+}
+
+nav li
+{
+    display: table-cell;
+    background-color: #011919;
+	border-radius: 16px;
+	z-index: 2;
+}
+
+nav li a
+{
+    display: block;
+    text-align: center;
+    color: #ffffff;  
+    text-decoration: none;
+    padding: 8px 8px 17px 8px; /*8 8 17 8*/
+	transition: all .3s 0s;
+	text-shadow: 5px 8px 5px #000000;
+	font-family: Georgia;
+	font-size: 20px;
+	font-style: italic;
+	border-radius: 16px;
+	z-index: 2;
+}
+
+nav li a:hover
+{
+    background-color: #2D3E41;
+	padding: 8px 25px 17px 25px;
+	transition: all .3s .1s;
+	z-index: 2;
+}
+
+#active
+{
+	background-color: #2D3E41;
+	padding: 8px 25px 17px 25px;
+	transition: all .3s .1s;
+	z-index: 2;
+}
+
+.moncadre 
+{
+	background-color: grey;
+	opacity: 0.8;
+	position: fixed;
+	width: 98%; /*1670*/
+	height: 150px;
+   	margin: 0 auto;
+	padding: 20px 10px 20px 10px;
+	border-radius: 100px 100px 100px 100px;
+	z-index: 2;
+}
+
+.zoom 
+{
+	width: 330px;
+	height: 330px;
+	float: right;
+	z-index: 2;
+}
+
+.zoom:hover 
+{
+	width: 370px;
+	height: 370px;
+	float: right;
+	z-index: 2;
+}
+
+.link
+{
+	color: black;
+	text-decoration: none;
+}

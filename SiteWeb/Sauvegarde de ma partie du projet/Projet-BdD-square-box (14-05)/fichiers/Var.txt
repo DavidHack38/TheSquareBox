@@ -1,0 +1,3 @@
+
+#ID-111111
+{"id":"111111", "motdepasse":"0.00", "mesurelargeursalon":"95.84", "mesurelongueursalon":"95.84", "valeursurfacesalon":"0.92", "mesurelargeurcuisine":"0.00", "mesurelongueurcuisine":"0.00", "valeursurfacecuisine":"0.00", "mesurelargeursalledebain":"0.00", "mesurelongueursalledebain":"0.00", "valeursurfacesalledebain":"0.00", "mesurelargeurchambre":"0.00", "mesurelongueurchambre":"0.00", "valeursurfacechambre":"0.00"}

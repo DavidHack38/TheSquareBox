@@ -1,0 +1,4 @@
+Pensez à repasser les fichiers jquery et css en compressé (rajouter .min après généralement).
+Sert à libérer de la bande passante et le temps de connexion
+
+Ré-écrire les adresse local en absolu (C://wamp64/www/projet-bdd-square-box/fichiers) au lieu de (fichiers/)

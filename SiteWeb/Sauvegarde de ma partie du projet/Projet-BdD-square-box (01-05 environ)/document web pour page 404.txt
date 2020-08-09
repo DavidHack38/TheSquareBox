@@ -1,0 +1,8 @@
+http://www.infowebmaster.fr/tutoriel/creer-page-erreur-404-personnalisee
+https://craym.eu/tutoriels/securite/page_error.html
+
+et comment remplir correctement la balise doctype
+
+https://www.alsacreations.com/article/lire/560-dtd-doctype-html-xhtml-comment-choisir.html
+http://coin.des.experts.pagesperso-orange.fr/reponses/faq9_64.html
+https://www.w3schools.com/tags/tag_doctype.asp

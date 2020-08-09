@@ -1,0 +1,7 @@
+Pensez à repasser les fichiers jquery et css en compressé (rajouter .min après généralement).
+Sert à libérer de la bande passante et le temps de connexion
+
+Ré-écrire les adresse local en absolu (C://wamp64/www/projet-bdd-square-box) au lieu de
+
+Si on  a du temps : 
+rajouter un mot de passe à 4 chiffres pour chaque user et envoyer à arduino si le mot de passe est bon ou pas quand il me demande

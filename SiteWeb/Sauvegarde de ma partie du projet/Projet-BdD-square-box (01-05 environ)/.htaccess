@@ -1,0 +1,10 @@
+#Liste des erreurs courantes.
+
+ErrorDocument 404 /error/error_404.html
+
+<IfModule mod_header.c>
+	<FilesMatch "\.ico$">
+		# met en cache les fichiers .ico pour 1 an (31536000 sec)
+		Header set Cache-control max-age=31536000
+	</FilesMatch>
+</IfModule>
