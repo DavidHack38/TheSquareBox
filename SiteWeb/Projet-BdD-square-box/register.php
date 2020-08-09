@@ -257,7 +257,7 @@
 						
 					</table> <br>
 
-					<div align='center' class='g-recaptcha' data-sitekey='6Lc_o7wZAAAAAHkAvraGu3kQzUN33IOffVhrm-pW'> </div> 
+					<div align='center' class='g-recaptcha' data-sitekey='6LctZxgUAAAAADaot9-cPm8nJnpmsMqHP_BMSz_9'> </div> 
 					<br>
 					<input type='submit' class='btn' value="Je m'inscris !" name='form_inscription'> <br> <br>
 				</form>
